@@ -1,0 +1,16 @@
+{
+  "name": "cartelbot",
+  "version": "1.0.0",
+  "description": "Bot pour le Cartel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clement",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js-image": "^5.6.0",
+    "discord.js": "^12.5.2",
+    "lowdb": "^1.0.0"
+  }
+}
